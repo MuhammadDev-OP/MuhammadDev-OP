@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadDev-OP
 - 👀 I’m interested in Web3.0 and Metaverse
 - 🌱 I’m currently learning Advance Js and TypeScript
-- 💞️ I’m looking to collaborate on Front-end development
+- 💞️ I’m looking to collaborate on Full-stack development
 - 📫 How to reach me Twitter(@techcoders911)
