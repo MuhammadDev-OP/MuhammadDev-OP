@@ -1,4 +1,4 @@
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadDev-OP&theme=tokyonight)](https://github.com/MuhammadDev-OP/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadDev-OP&theme=tokyonight&width=100%)](https://github.com/MuhammadDev-OP/github-readme-stats)
 
 - 👋 Hi, I’m @MuhammadDev-OP
 - 👀 I’m interested in DevOps and Cloud Computing
