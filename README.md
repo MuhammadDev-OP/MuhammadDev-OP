@@ -1,5 +1,6 @@
  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadDev-OP&theme=tokyonight&card_width=100)](https://github.com/MuhammadDev-OP/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadDev-OP&show_icons=true&theme=tokyonight)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadDev-OP)](https://github.com/MuhammadDev-OP/github-readme-stats)
 
 - 👋 Hi, I’m @MuhammadDev-OP
 - 👀 I’m interested in DevOps and Cloud Computing
