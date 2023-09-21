@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Under Processing](Under Processing)
 
-- 📫 How to reach me **mm**
+- 📫 How to reach me **@MuhammadDev#2218**(Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
