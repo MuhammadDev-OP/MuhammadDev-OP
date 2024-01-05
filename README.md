@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **NEXTJs, Node, and APIs**
 
-- 👨‍💻 All of my projects are available at [Under Development](Under Development)
-
-- 📝 I regularly write articles on [Under Processing](Under Processing)
+- 👨‍💻 All of my projects are available at [Under Development]
 
 - 📫 How to reach me **@MuhammadDev#2218**(Discord)
 
