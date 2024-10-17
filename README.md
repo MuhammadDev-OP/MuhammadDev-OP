@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bangash</h1>
-<h3 align="center">A passionate Full Stack developer from South Asia</h3>
+<h3 align="center">A passionate Full Stack developer from Central Asia</h3>
 
 <p align="left"> <a href="https://twitter.com/@techcoders911" target="blank"><img src="https://img.shields.io/twitter/follow/techcoders911?logo=twitter&style=for-the-badge" alt="techcoders911" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammaddev-op&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaddev-op" /> </p>
