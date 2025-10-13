@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently building scalable solutions at **Metatalent.ai** using **Next.js** and **Node.js**  
 - 🌱 My core stack: **Next.js, NestJS, Node.js, PostgreSQL, Tailwind CSS, Shadcn UI, REST APIs**  
-- 💻 Check out my projects on [Codinito.com](https://codinito.com)  
 - 📫 Reach me on Discord: **@MuhammadDev#2218**  
 - ⚡ Fun fact: I’ve migrated apps from MERN to JAM stack for better performance—speed is my thing!  
 
