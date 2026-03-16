@@ -23,7 +23,7 @@ const muhammad = {
   focus: ["React", "Next.js", "Node.js", "NestJS"],
   cloud: ["AWS EC2/S3/Lambda/RDS", "Vercel", "Docker"],
   databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Redis", "Neon"],
-  ai: ["Claude Code", "ChatGPT", "GitHub Copilot"],
+  ai: ["Claude Code", "GitHub Copilot"],
   currently: "Building scalable SaaS products with AI integrations",
   available: true,
 };
@@ -50,6 +50,7 @@ I handle the complete dev lifecycle — from design systems and full-stack archi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 **Databases**
 
@@ -81,7 +82,6 @@ I handle the complete dev lifecycle — from design systems and full-stack archi
 **AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
