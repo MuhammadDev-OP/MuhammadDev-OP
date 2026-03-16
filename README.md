@@ -1,127 +1,103 @@
-<h1 align="center">Muhammad Bangash</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> • Design to Deployment
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a7ea4,100:00d4ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammaddev-op&label=Views&color=0a7ea4&style=flat-square" alt="Profile views" />
-</p>
+# Muhammad Bangash
+### Full-Stack Engineer · Design → Deployment
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+backends;Shipping+production-ready+apps;From+Figma+to+AWS+%E2%80%94+end+to+end)](https://git.io/typing-svg)
 
-## About
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammaddev-op&label=Profile+Views&color=0a7ea4&style=for-the-badge)](https://github.com/muhammaddev-op)
 
-Building scalable, production-ready applications from **pixel-perfect UI** to **optimized databases**. I handle the complete development lifecycle: design systems, full-stack architecture, cloud deployment, and performance optimization.
+</div>
 
 ---
 
-## 🎯 Core Expertise
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddev-op&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
 
-### Frontend
-**React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **Shadcn UI** • Responsive Design • Web Performance
+## `whoami`
 
-### Backend
-**Node.js** • **NestJS** • **Express.js** • **REST APIs** • **Real-time Systems** • Server-side Optimization
+```ts
+const muhammad = {
+  role: "Full-Stack Developer",
+  focus: ["React", "Next.js", "Node.js", "NestJS"],
+  cloud: ["AWS", "Vercel", "Docker"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  currently: "Building scalable SaaS products",
+  available: true,
+};
+```
 
-### Databases
-**PostgreSQL** • **MySQL** • **MongoDB** • **Neon** • Query Optimization • Data Modeling • Schema Design
-
-### DevOps & Cloud
-**AWS** (EC2, S3, CloudFront) • **CI/CD Pipelines** • **Docker** • **GitHub Actions** • **Vercel** • **Linux Server Management**
-
-### Tools & Practices
-**Git** • **VS Code** • **Figma** • **Testing** (Jest, Cypress) • **Git Workflows** • **Agile Development**
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-</p>
+I handle the complete dev lifecycle — from design systems and full-stack architecture to cloud deployment and performance optimization. No handoffs, no gaps.
 
 ---
 
-## 💼 What I Do
+## ⚡ Tech Stack
 
-| Area | Focus |
-|------|-------|
-| **Design** | Create beautiful, accessible UI/UX with Figma, implement responsive designs with Tailwind CSS |
-| **Frontend** | Build performant React/Next.js applications with TypeScript, optimize core web vitals |
-| **Backend** | Develop scalable REST APIs and microservices, implement authentication & authorization |
-| **Database** | Design efficient schemas, optimize queries, manage data migrations, ensure data integrity |
-| **DevOps** | Set up CI/CD pipelines, manage cloud infrastructure, containerize applications, monitor performance |
-| **Deployment** | Deploy to Vercel, AWS, manage staging/production environments, handle zero-downtime deployments |
+<div align="center">
 
----
+**Frontend**
 
-## 📫 Connect With Me
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p align="left">
-  <a href="https://twitter.com/techcoders911" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" />
-  </a>
-  <a href="https://linkedin.com/in/muhammad-bangash-24b241224" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
-  </a>
-</p>
+**Backend**
 
-**Discord:** @MuhammadDev#2218
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammaddev-op&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammaddev-op&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddev-op&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddev-op&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
-<p align="center">
-  <em>Always learning, always building. Let's create something amazing together.</em>
-</p>
-\`\`\`
+## 🤝 Let's Connect
 
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techcoders911)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-bangash-24b241224)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+`@MuhammadDev#2218`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0a7ea4&height=100&section=footer" width="100%"/>
+
+*Always learning. Always shipping.*
+
+</div>
