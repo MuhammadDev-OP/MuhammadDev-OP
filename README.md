@@ -14,8 +14,6 @@
 
 Building scalable, production-ready applications from **pixel-perfect UI** to **optimized databases**. I handle the complete development lifecycle: design systems, full-stack architecture, cloud deployment, and performance optimization.
 
-Currently building solutions at **Metatalent.ai** using modern web technologies and best practices.
-
 ---
 
 ## 🎯 Core Expertise
