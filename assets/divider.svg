@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44" role="img" aria-label="ornamental divider">
+<defs><linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="1140" y2="0"><stop offset="0" stop-color="#d4a537" stop-opacity="0"/><stop offset=".5" stop-color="#d4a537"/><stop offset="1" stop-color="#d4a537" stop-opacity="0"/></linearGradient>
+<linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-160" x2="0"><stop offset="0" stop-color="#fff6d5" stop-opacity="0"/><stop offset=".5" stop-color="#fff6d5"/><stop offset="1" stop-color="#fff6d5" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;1360 0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<path d="M60 22H560M640 22H1140" stroke="url(#ln)" stroke-width="1.6"/>
+<path d="M60 22H560M640 22H1140" stroke="url(#sh)" stroke-width="1.6"/>
+<path d="M120 26H545M655 26H1080" stroke="url(#ln)" stroke-opacity=".45" stroke-width=".8"/>
+<path d="M545,18 L545.77,20.15 L547.83,19.17 L546.85,21.23 L549,22 L546.85,22.77 L547.83,24.83 L545.77,23.85 L545,26 L544.23,23.85 L542.17,24.83 L543.15,22.77 L541,22 L543.15,21.23 L542.17,19.17 L544.23,20.15ZM655,18 L655.77,20.15 L657.83,19.17 L656.85,21.23 L659,22 L656.85,22.77 L657.83,24.83 L655.77,23.85 L655,26 L654.23,23.85 L652.17,24.83 L653.15,22.77 L651,22 L653.15,21.23 L652.17,19.17 L654.23,20.15Z" fill="#b5452f"/>
+<g><path d="M590 12h20v20h-20ZM600 7.86L614.14 22L600 36.14L585.86 22Z" fill="#0a0e1a" fill-opacity=".001" stroke="#d4a537" stroke-width="1.6"/>
+<animateTransform attributeName="transform" type="rotate" from="0 600 22" to="360 600 22" dur="24s" repeatCount="indefinite"/></g>
+<path d="M600,14 L601.53,18.3 L605.66,16.34 L603.7,20.47 L608,22 L603.7,23.53 L605.66,27.66 L601.53,25.7 L600,30 L598.47,25.7 L594.34,27.66 L596.3,23.53 L592,22 L596.3,20.47 L594.34,16.34 L598.47,18.3Z" fill="#b5452f" stroke="#f3d98b" stroke-width=".8"/>
+</svg>
