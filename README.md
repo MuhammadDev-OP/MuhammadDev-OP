@@ -80,25 +80,14 @@ Al-Hakam's librarians didn't write one book at a time. They ran a system. That's
 
 <div align="center">
 
-<a href="https://github.com/MuhammadDev-OP/crypto-tracker"><img src="https://github-stats-extended.vercel.app/api/pin?username=MuhammadDev-OP&repo=crypto-tracker&bg_color=0b1020&title_color=d4a537&text_color=e8dcc0&icon_color=b5452f&border_color=6b5427&ring_color=d4a537&show_owner=false" alt="crypto-tracker" width="48%"/></a> <a href="https://github.com/MuhammadDev-OP/jotion-app"><img src="https://github-stats-extended.vercel.app/api/pin?username=MuhammadDev-OP&repo=jotion-app&bg_color=0b1020&title_color=d4a537&text_color=e8dcc0&icon_color=b5452f&border_color=6b5427&ring_color=d4a537&show_owner=false" alt="jotion-app" width="48%"/></a> <a href="https://github.com/MuhammadDev-OP/url-shortner"><img src="https://github-stats-extended.vercel.app/api/pin?username=MuhammadDev-OP&repo=url-shortner&bg_color=0b1020&title_color=d4a537&text_color=e8dcc0&icon_color=b5452f&border_color=6b5427&ring_color=d4a537&show_owner=false" alt="url-shortner" width="48%"/></a> <a href="https://github.com/MuhammadDev-OP/ecom-web"><img src="https://github-stats-extended.vercel.app/api/pin?username=MuhammadDev-OP&repo=ecom-web&bg_color=0b1020&title_color=d4a537&text_color=e8dcc0&icon_color=b5452f&border_color=6b5427&ring_color=d4a537&show_owner=false" alt="ecom-web" width="48%"/></a>
+<a href="https://github.com/MuhammadDev-OP/legitlens"><img src="https://github-stats-extended.vercel.app/api/pin?username=MuhammadDev-OP&repo=legitlens&bg_color=0b1020&title_color=d4a537&text_color=e8dcc0&icon_color=b5452f&border_color=6b5427&ring_color=d4a537&show_owner=false" alt="legitlens" width="48%"/></a> <a href="https://github.com/MuhammadDev-OP/crypto-tracker"><img src="https://github-stats-extended.vercel.app/api/pin?username=MuhammadDev-OP&repo=crypto-tracker&bg_color=0b1020&title_color=d4a537&text_color=e8dcc0&icon_color=b5452f&border_color=6b5427&ring_color=d4a537&show_owner=false" alt="crypto-tracker" width="48%"/></a>
 
 </div>
 
-| Project | What it is | Built with | Live |
-|---|---|---|---|
-| [**crypto-tracker**](https://github.com/MuhammadDev-OP/crypto-tracker) | Cryptocurrency price dashboard with spark-line charts | Next.js 14 (App Router), Bun, TanStack Query v5, Recharts, Tailwind | [live ↗](https://crypto-tracker-xi-drab.vercel.app/) |
-| [**jotion-app**](https://github.com/MuhammadDev-OP/jotion-app) | Document workspace app | Next.js, Convex, Clerk auth, Radix UI, cmdk | [live ↗](https://jotion-app-psi.vercel.app) |
-| [**url-shortner**](https://github.com/MuhammadDev-OP/url-shortner) | URL shortening service with redirects and caching | Node.js, Express, MongoDB, Redis (Upstash) | n/a |
-| [**weather-app**](https://github.com/MuhammadDev-OP/weather-app) | Weather mapping & analysis over North Africa | Next.js, MapTiler Weather, MapLibre GL, ApexCharts | [live ↗](https://weather-app-delta-ashy.vercel.app) |
-| [**my-atlanta-pc**](https://github.com/MuhammadDev-OP/my-atlanta-pc) | Full-stack hotel & resort reservation system | Next.js, NextAuth, Prisma, Leaflet maps, Cloudinary | n/a |
-| [**ecom-web**](https://github.com/MuhammadDev-OP/ecom-web) | E-commerce site with a headless CMS | Next.js 13, Sanity, Drizzle ORM, Vercel Postgres | n/a |
-| [**ngage-esports**](https://github.com/MuhammadDev-OP/ngage-esports) | Esports web platform | Next.js, Prisma, Zustand, React Hook Form | [live ↗](https://ngage-esports.vercel.app) |
-| [**rehouse-personal**](https://github.com/MuhammadDev-OP/rehouse-personal) | Animated marketing site with CMS content | Next.js, Sanity, GSAP, Embla Carousel | [live ↗](https://rehouse-phi.vercel.app) |
-| [**ai-audio-recognition-py**](https://github.com/MuhammadDev-OP/ai-audio-recognition-py) | Speech recognition with a KNN classifier | Python, scikit-learn | n/a |
+- **[LegitLens](https://github.com/MuhammadDev-OP/legitlens)**: an open-source browser extension and web checker that tells you, in plain words, whether a link or online shop looks like a scam. It checks domain age, brand lookalikes, page signals and open phishing lists, then explains every flag. <sub>by Qurtuba Labs · powered by [Codinito](https://www.codinito.com)</sub>
+- **[crypto-tracker](https://github.com/MuhammadDev-OP/crypto-tracker)**: a cryptocurrency price dashboard with spark-line charts, built on Next.js 14, TanStack Query and Recharts. [Live ↗](https://crypto-tracker-xi-drab.vercel.app/) <sub>by Qurtuba Labs · powered by [Codinito](https://www.codinito.com)</sub>
 
 <sub>Most client and agency work (Codinito builds, pSEO systems, automation) lives in private repositories.</sub>
-
-<!-- ✍️ PLACEHOLDER: add 2–3 public client sites / case studies from codinito.com here (name · one line · link). Only ones you're allowed to show. -->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
